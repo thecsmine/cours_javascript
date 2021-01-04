@@ -1,5 +1,7 @@
 # Cours Javascript
 
+# Génération procédurale de cartes : TP/TP_MapGenerator/
+
 Vous trouverez au sein de ce répertoire: le cours (le fichier *javascript.ipynb* qui exploite les *notebooks* Jupyter), les TP (dans le répertoire *TP*) et un ensemble d'exemples complémentaires au cours (dans le dossier *exemples*).
 
 Le sommaire du cours est le suivant:
